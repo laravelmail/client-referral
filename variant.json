@@ -1,0 +1,58 @@
+{
+  "body": {
+    "rows": [
+      {
+        "columns": [
+          {
+            "id": 1,
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Failed to export html. ReferenceError: letterSpacing is not defined",
+                  "color": "#000000"
+                }
+              }
+            ],
+            "values": {
+              "backgroundColor": "#ffffff",
+              "width": 12
+            }
+          }
+        ],
+        "values": {
+          "textColor": "#000000",
+          "accentColor": "#0000ee",
+          "backgroundColor": "transparent",
+          "backgroundImage": {
+            "url": "",
+            "fullWidth": true,
+            "repeat": "no-repeat",
+            "center": true,
+            "cover": false
+          },
+          "padding": "10px",
+          "columnsBackgroundColor": "transparent"
+        },
+        "cells": [
+          1
+        ]
+      }
+    ],
+    "values": {
+      "backgroundColor": "#ffffff",
+      "contentWidth": "600px",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      },
+      "preheaderText": "",
+      "linkStyle": {
+        "body": true,
+        "linkColor": "#0000ee",
+        "linkUnderline": true
+      }
+    }
+  },
+  "schemaVersion": 15
+}

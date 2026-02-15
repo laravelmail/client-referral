@@ -1,0 +1,46 @@
+{
+  "body": {
+    "rows": [],
+    "values": {
+      "displayCondition": null,
+      "_meta": {
+        "htmlID": "u_body",
+        "htmlClassNames": "u_body"
+      },
+      "selectable": true,
+      "draggable": true,
+      "duplicatable": true,
+      "deletable": true,
+      "hideable": false,
+      "text": "",
+      "size": {
+        "autoWidth": true,
+        "width": ""
+      },
+      "border": {},
+      "calculatedWidth": null,
+      "calculatedHeight": null,
+      "backgroundImage": {
+        "url": "",
+        "fullWidth": false,
+        "repeat": false,
+        "center": true,
+        "cover": false
+      },
+      "contentWidth": "500px",
+      "contentAlign": "center",
+      "columns": false,
+      "hideDesktop": false
+    }
+  },
+  "counters": {
+    "u_column": 0,
+    "u_row": 0,
+    "u_content_button": 0,
+    "u_content_heading": 0,
+    "u_content_text": 0,
+    "u_content_image": 0,
+    "u_content_menu": 0
+  },
+  "schemaVersion": 16
+}
